@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_row">
+    <sp_row action="INSERT_OR_UPDATE">
+        <class_name/>
+        <order>1</order>
+        <sp_column/>
+        <sp_container display_value="GitPage - Container 1">a8bfce4747346110c2107af3836d43ae</sp_container>
+        <sys_class_name>sp_row</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-08 13:02:10</sys_created_on>
+        <sys_id>9abf4a8747346110c2107af3836d4311</sys_id>
+        <sys_name>1</sys_name>
+        <sys_package display_value="InGauge Portal" source="x_830584_ingauge_p">fb24ce8b47f06110c2107af3836d43d1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="InGauge Portal">fb24ce8b47f06110c2107af3836d43d1</sys_scope>
+        <sys_update_name>sp_row_9abf4a8747346110c2107af3836d4311</sys_update_name>
+    </sp_row>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_theme">
+    <sp_theme action="INSERT_OR_UPDATE">
+        <css_variables/>
+        <footer display_value="Employee Center Footer">ce046d5773603010c94f54eb7df6a7ec</footer>
+        <footer_fixed>true</footer_fixed>
+        <header display_value="ESC Header">bda7abc623882300fb0c949e27bf6544</header>
+        <name>Git Theme</name>
+        <navbar_fixed>true</navbar_fixed>
+        <sys_class_name>sp_theme</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-08 13:32:11</sys_created_on>
+        <sys_id>4456d24f47346110c2107af3836d436d</sys_id>
+        <sys_name>Git Theme</sys_name>
+        <sys_package display_value="InGauge Portal" source="x_830584_ingauge_p">fb24ce8b47f06110c2107af3836d43d1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="InGauge Portal">fb24ce8b47f06110c2107af3836d43d1</sys_scope>
+        <sys_update_name>sp_theme_4456d24f47346110c2107af3836d436d</sys_update_name>
+    </sp_theme>
+</record_update>

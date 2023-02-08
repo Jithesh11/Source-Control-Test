@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="INSERT_OR_UPDATE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name/>
+        <container_class_name/>
+        <name>GitPage - Container 1</name>
+        <order>1</order>
+        <sp_page display_value="gitpage">a4bfce4747346110c2107af3836d43aa</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-08 13:02:04</sys_created_on>
+        <sys_id>a8bfce4747346110c2107af3836d43ae</sys_id>
+        <sys_name>GitPage - Container 1</sys_name>
+        <sys_package display_value="InGauge Portal" source="x_830584_ingauge_p">fb24ce8b47f06110c2107af3836d43d1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="InGauge Portal">fb24ce8b47f06110c2107af3836d43d1</sys_scope>
+        <sys_update_name>sp_container_a8bfce4747346110c2107af3836d43ae</sys_update_name>
+        <title/>
+        <width>container</width>
+    </sp_container>
+</record_update>

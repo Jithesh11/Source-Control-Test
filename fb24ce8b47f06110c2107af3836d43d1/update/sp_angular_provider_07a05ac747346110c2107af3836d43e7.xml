@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_angular_provider">
+    <sp_angular_provider action="INSERT_OR_UPDATE">
+        <name>GitName</name>
+        <script/>
+        <sys_class_name>sp_angular_provider</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-08 13:07:10</sys_created_on>
+        <sys_id>07a05ac747346110c2107af3836d43e7</sys_id>
+        <sys_name>GitName</sys_name>
+        <sys_package display_value="InGauge Portal" source="x_830584_ingauge_p">fb24ce8b47f06110c2107af3836d43d1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="InGauge Portal">fb24ce8b47f06110c2107af3836d43d1</sys_scope>
+        <sys_update_name>sp_angular_provider_07a05ac747346110c2107af3836d43e7</sys_update_name>
+        <type>directive</type>
+    </sp_angular_provider>
+</record_update>
