@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="38744ecb47f06110c2107af3836d43ec" label="Ingauge" max_length="40" name="x_830584_ingauge_p_ingauge" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Name" max_length="40" name="name" type="string"/>
+    </element>
+</database>

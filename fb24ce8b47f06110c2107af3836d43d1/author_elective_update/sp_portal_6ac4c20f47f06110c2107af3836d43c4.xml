@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_portal">
+    <sp_portal action="DELETE">
+        <css_variables/>
+        <default>false</default>
+        <enable_ais>false</enable_ais>
+        <enable_favorites>false</enable_favorites>
+        <hide_portal_name>false</hide_portal_name>
+        <homepage/>
+        <icon/>
+        <kb_knowledge_base/>
+        <kb_knowledge_page/>
+        <login_page/>
+        <logo/>
+        <notfound_page/>
+        <quick_start_config/>
+        <sc_catalog/>
+        <sc_catalog_page/>
+        <sc_category_page/>
+        <search_application/>
+        <search_results_configuration/>
+        <sp_chat_queue/>
+        <sp_rectangle_menu/>
+        <sys_class_name>sp_portal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-08 12:16:19</sys_created_on>
+        <sys_id>6ac4c20f47f06110c2107af3836d43c4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Croft EC InGauge</sys_name>
+        <sys_package display_value="InGauge Portal" source="x_830584_ingauge_p">fb24ce8b47f06110c2107af3836d43d1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="InGauge Portal">fb24ce8b47f06110c2107af3836d43d1</sys_scope>
+        <sys_update_name>sp_portal_6ac4c20f47f06110c2107af3836d43c4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-08 12:16:19</sys_updated_on>
+        <theme/>
+        <title>Croft EC InGauge</title>
+        <ts_index_group/>
+        <url_suffix>croft_ec_ingauge</url_suffix>
+    </sp_portal>
+    <sys_translated_text action="DELETE" query="documentkey=6ac4c20f47f06110c2107af3836d43c4"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="InGauge Portal">fb24ce8b47f06110c2107af3836d43d1</application>
+        <file_path/>
+        <instance_id>26e4df41dba6f0109df22f17d4961931</instance_id>
+        <instance_name>dev119243</instance_name>
+        <name>sp_portal_6ac4c20f47f06110c2107af3836d43c4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_portal"><sp_portal action="INSERT_OR_UPDATE"><css_variables/><default>false</default><enable_ais>false</enable_ais><enable_favorites>false</enable_favorites><hide_portal_name>false</hide_portal_name><homepage/><icon/><kb_knowledge_base/><kb_knowledge_page/><login_page/><logo/><notfound_page/><quick_start_config/><sc_catalog/><sc_catalog_page/><sc_category_page/><search_application/><search_results_configuration/><sp_chat_queue/><sp_rectangle_menu/><sys_class_name>sp_portal</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-02-08 12:16:19</sys_created_on><sys_id>6ac4c20f47f06110c2107af3836d43c4</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Croft EC InGauge</sys_name><sys_package display_value="InGauge Portal" source="x_830584_ingauge_p">fb24ce8b47f06110c2107af3836d43d1</sys_package><sys_policy/><sys_scope display_value="InGauge Portal">fb24ce8b47f06110c2107af3836d43d1</sys_scope><sys_update_name>sp_portal_6ac4c20f47f06110c2107af3836d43c4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-02-08 12:16:19</sys_updated_on><theme/><title>Croft EC InGauge</title><ts_index_group/><url_suffix>croft_ec_ingauge</url_suffix></sp_portal><sys_translated_text action="delete_multiple" query="documentkey=6ac4c20f47f06110c2107af3836d43c4"/></record_update>]]></payload>
+        <payload_hash>82757720</payload_hash>
+        <record_name>Croft EC InGauge</record_name>
+        <reverted_from/>
+        <source>b724ce8b47f06110c2107af3836d43d3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-08 12:16:19</sys_created_on>
+        <sys_id>a2358a0f47f06110c2107af3836d436d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18630f490720000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-08 12:16:19</sys_updated_on>
+        <type>Service Portal</type>
+        <update_guid>ea358a0fa1f06110705e9b547199256c</update_guid>
+        <update_guid_history>ea358a0fa1f06110705e9b547199256c:82757720</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Croft EC InGauge">7629060347346110c2107af3836d4313</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-08 12:33:33</sys_created_on>
+        <sys_db_object display_value="" name="sp_portal">sp_portal</sys_db_object>
+        <sys_id>8683aaa92bdf48b8b6fbe42da1abd440</sys_id>
+        <sys_metadata>6ac4c20f47f06110c2107af3836d43c4</sys_metadata>
+        <sys_name>Croft EC InGauge</sys_name>
+        <sys_package display_value="InGauge Portal" source="x_830584_ingauge_p">fb24ce8b47f06110c2107af3836d43d1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="InGauge Portal">fb24ce8b47f06110c2107af3836d43d1</sys_scope>
+        <sys_scope_delete display_value="">01d8255753a7448d8c28e88d2da477f1</sys_scope_delete>
+        <sys_update_name>sp_portal_6ac4c20f47f06110c2107af3836d43c4</sys_update_name>
+        <sys_update_version display_value="sp_portal_6ac4c20f47f06110c2107af3836d43c4">a2358a0f47f06110c2107af3836d436d</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

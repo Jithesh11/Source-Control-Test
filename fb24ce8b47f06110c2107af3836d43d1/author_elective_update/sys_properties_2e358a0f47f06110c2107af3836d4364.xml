@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="DELETE">
+        <choices/>
+        <description>If true, portal css would be in rem units</description>
+        <ignore_cache>true</ignore_cache>
+        <is_private>false</is_private>
+        <name>glide.service_portal.resize_text.croft_ec_ingauge.enable_rem_conversion</name>
+        <read_roles/>
+        <suffix/>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-08 12:16:19</sys_created_on>
+        <sys_id>2e358a0f47f06110c2107af3836d4364</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>glide.service_portal.resize_text.croft_ec_ingauge.enable_rem_conversion</sys_name>
+        <sys_package display_value="InGauge Portal" source="x_830584_ingauge_p">fb24ce8b47f06110c2107af3836d43d1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="InGauge Portal">fb24ce8b47f06110c2107af3836d43d1</sys_scope>
+        <sys_update_name>sys_properties_2e358a0f47f06110c2107af3836d4364</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-08 12:16:19</sys_updated_on>
+        <type>boolean</type>
+        <value>true</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="DELETE" query="documentkey=2e358a0f47f06110c2107af3836d4364"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="InGauge Portal">fb24ce8b47f06110c2107af3836d43d1</application>
+        <file_path/>
+        <instance_id>26e4df41dba6f0109df22f17d4961931</instance_id>
+        <instance_name>dev119243</instance_name>
+        <name>sys_properties_2e358a0f47f06110c2107af3836d4364</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties"><sys_properties action="INSERT_OR_UPDATE"><choices/><description>If true, portal css would be in rem units</description><ignore_cache>true</ignore_cache><is_private>false</is_private><name>glide.service_portal.resize_text.croft_ec_ingauge.enable_rem_conversion</name><read_roles/><suffix/><sys_class_name>sys_properties</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-02-08 12:16:19</sys_created_on><sys_id>2e358a0f47f06110c2107af3836d4364</sys_id><sys_mod_count>0</sys_mod_count><sys_name>glide.service_portal.resize_text.croft_ec_ingauge.enable_rem_conversion</sys_name><sys_package display_value="InGauge Portal" source="x_830584_ingauge_p">fb24ce8b47f06110c2107af3836d43d1</sys_package><sys_policy/><sys_scope display_value="InGauge Portal">fb24ce8b47f06110c2107af3836d43d1</sys_scope><sys_update_name>sys_properties_2e358a0f47f06110c2107af3836d4364</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-02-08 12:16:19</sys_updated_on><type>boolean</type><value>true</value><write_roles/></sys_properties><sys_translated_text action="delete_multiple" query="documentkey=2e358a0f47f06110c2107af3836d4364"/></record_update>]]></payload>
+        <payload_hash>-1781114895</payload_hash>
+        <record_name>glide.service_portal.resize_text.croft_ec_ingauge.enable_rem_conversion</record_name>
+        <reverted_from/>
+        <source>b724ce8b47f06110c2107af3836d43d3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-08 12:16:19</sys_created_on>
+        <sys_id>ae358a0f47f06110c2107af3836d4367</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18630f490310000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-08 12:16:19</sys_updated_on>
+        <type>System Property</type>
+        <update_guid>e6358a0febf06110432193103c17ae67</update_guid>
+        <update_guid_history>e6358a0febf06110432193103c17ae67:-1781114895</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-08 12:33:33</sys_created_on>
+        <sys_db_object display_value="" name="sys_properties">sys_properties</sys_db_object>
+        <sys_id>1134b21b74254698ae50bacbf247c040</sys_id>
+        <sys_metadata>2e358a0f47f06110c2107af3836d4364</sys_metadata>
+        <sys_name>glide.service_portal.resize_text.croft_ec_ingauge.enable_rem_conversion</sys_name>
+        <sys_package display_value="InGauge Portal" source="x_830584_ingauge_p">fb24ce8b47f06110c2107af3836d43d1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="InGauge Portal">fb24ce8b47f06110c2107af3836d43d1</sys_scope>
+        <sys_scope_delete display_value="">01d8255753a7448d8c28e88d2da477f1</sys_scope_delete>
+        <sys_update_name>sys_properties_2e358a0f47f06110c2107af3836d4364</sys_update_name>
+        <sys_update_version display_value="sys_properties_2e358a0f47f06110c2107af3836d4364">ae358a0f47f06110c2107af3836d4367</sys_update_version>
+    </sys_metadata_delete>
+</record_update>
